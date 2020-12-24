@@ -21,11 +21,9 @@ Finally, we used pytorch to implement CNNs to do image classification.
 - [Main Problem statement](assignment3/assignment_3.pdf),  [Solution](assignment3/qgo500_assignment3.pdf), [Code](assignment3/qgo500_assignment3.ipynb)
 
 
-#### Known Issues
-Due to a bug the Tensorflow MLP test results are largely inflated. The code has been fixed, and the report will be updated soon.
-
 ### Lab 4 - Recurrent Neural Networks, Autoregressive LISTM
-
+We explore the long-term dependency modelling capabilities of Recurrent Neural Networks (RNNs), Long Short-Term Networks (LSTMs) with Autoregressive. Additionally, we train a character-level language model on natural language text and experiment with character-by-character text generation. 
+- [Main Problem statement](assignment4/assignment_4.pdf),  [Solution](assignment4/qgo500_assignment4.pdf), [Code](assignment4/qgo500_assignment4.ipynb)
 
 
 ### Lab 5 - Generative Models
