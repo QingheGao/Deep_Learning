@@ -6,6 +6,15 @@ Solution of deep learning projects.
 
 ### Lab 1-3 - Neural Networks, Convolutions and Pytorch
 
+Firstly, we worked on scalar backpropagation only by numpy and math. And we trained on a small dataset - synth dataset to show the inefficiency.
+
+Then, we implemented Tensor backpropagation with MNIST dataset to do the image classification.
+- [Main Problem statement](assignment1/assignment_1.pdf),  [Solution](assignment1/qgo500_assignment1.pdf), [Code](assignment1/qgo500_assignment1.ipynb)
+
+Furthermore, we worked on custom Automatic differentiation to fully understand how pytorch works.
+
+
+
 
 
 #### Problems and Solutions
