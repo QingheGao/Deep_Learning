@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ed76a60-3d40-4fda-bbf6-669cf4cfa2a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="9b8488aa-6502-4873-a4b3-b5078d7a90ff" />
+  <component name="ProjectId" id="1k9JNQmRdDIWY7ohFhhw51jA1KS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.my_train">
+    <configuration name="my_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vugrad-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments/my_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_mlp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vugrad-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments/train_mlp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vugrad-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.my_train" />
+        <item itemvalue="Python.train_mlp" />
+        <item itemvalue="Python.try" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ed76a60-3d40-4fda-bbf6-669cf4cfa2a0" name="Default Changelist" comment="" />
+      <created>1605106833685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605106833685</updated>
+      <workItem from="1605106845729" duration="203000" />
+      <workItem from="1605206367954" duration="1965000" />
+      <workItem from="1605208391366" duration="3336000" />
+      <workItem from="1605344619169" duration="5330000" />
+      <workItem from="1605447236348" duration="5213000" />
+      <workItem from="1605643611737" duration="3181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="125" key="#Deployment" timestamp="1605106984591">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="314" y="125" key="#Deployment/0.23.1440.877@0.23.1440.877" timestamp="1605106984591" />
+    <state x="178" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605107008477">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="178" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1605107008477" />
+    <state width="1332" height="181" key="GridCell.Tab.0.bottom" timestamp="1605432151135">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1332" height="181" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605432151135" />
+    <state width="1332" height="181" key="GridCell.Tab.0.center" timestamp="1605432151134">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1332" height="181" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1605432151134" />
+    <state width="1332" height="181" key="GridCell.Tab.0.left" timestamp="1605432151133">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1332" height="181" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1605432151133" />
+    <state width="1332" height="181" key="GridCell.Tab.0.right" timestamp="1605432151134">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1332" height="181" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605432151134" />
+    <state width="1332" height="258" key="GridCell.Tab.1.bottom" timestamp="1605107048787">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1332" height="258" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605107048787" />
+    <state width="1332" height="258" key="GridCell.Tab.1.center" timestamp="1605107048787">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1332" height="258" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1605107048787" />
+    <state width="1332" height="258" key="GridCell.Tab.1.left" timestamp="1605107048787">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1332" height="258" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1605107048787" />
+    <state width="1332" height="258" key="GridCell.Tab.1.right" timestamp="1605107048787">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1332" height="258" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1605107048787" />
+    <state x="379" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1605106980319">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="379" y="224" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1605106980319" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/vugrad_main$my_train.coverage" NAME="my_train Coverage Results" MODIFIED="1605369084532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments" />
+    <SUITE FILE_PATH="coverage/vugrad_main$train_mlp.coverage" NAME="train_mlp Coverage Results" MODIFIED="1605358128199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments" />
+    <SUITE FILE_PATH="coverage/vugrad_main$try.coverage" NAME="try Coverage Results" MODIFIED="1605107044715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
