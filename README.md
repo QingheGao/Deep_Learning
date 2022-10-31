@@ -28,4 +28,4 @@ We explore the long-term dependency modelling capabilities of Recurrent Neural N
 
 ### Lab 5 - Generative Models
 We work generative modelling with the variational inference and GAN on the MNIST dataset/Imagenette dataset. We then use variational autoencoders and GAN on the same task and discuss how the intractability issues are resolved. We explore the performance of variational autoencoder and GAN by sampling images from the models. 
-- [Main Problem statement](assignment5/assignment_5.pdf),  [Solution](assignment5/qgo500_assignment5.pdf), [Code](assignment5/qgo500_assignment5.ipynb)
+- [Main Problem statement](assignment5/assignment_5a.pdf),  [Solution](assignment5/qgo500_assignment5.pdf), [Code](assignment5/qgo500_assignment5.ipynb)
